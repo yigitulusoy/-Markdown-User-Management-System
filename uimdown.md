@@ -44,30 +44,30 @@ UI Behavior
 
 ## UI Components
 
-1.Bar
-2.User Table
-3.User details section
-4.User Creation Section
+1. Bar
+2. User Table
+3. User details section
+4. User Creation Section
 
 ## UI Behavior
 
 User Listing
--Initially empty, and the box says there are no users.
--Users can be added to this table and they are listed with basic info.
--Clicking on a user should indicate the user’s row and info, showing them on the user details sheet.
+- Initially empty, and the box says there are no users.
+- Users can be added to this table and they are listed with basic info.
+- Clicking on a user should indicate the user’s row and info, showing them on the user details sheet.
 
 User Details
--Initially the sheet is blank since no user is selected.
--Upon selecting a specific user, the detailed info should be displayed on the sheet.
+- Initially the sheet is blank since no user is selected.
+- Upon selecting a specific user, the detailed info should be displayed on the sheet.
 
 User Creation
--Creation form is initially empty and admins can enter the information about users.
--After submission, a new user is added to the list.
+- Creation form is initially empty and admins can enter the information about users.
+- After submission, a new user is added to the list.
 
 ## Initial Site
 
 The page should initially look like this:
--The bar(navigation) at the top
--User listing table with a comment saying there are no users added yet.
--User details sheet with a comment saying no users highlighted
--User creation form to enter info and create a user.
+- The bar(navigation) at the top
+- User listing table with a comment saying there are no users added yet.
+- User details sheet with a comment saying no users highlighted
+- User creation form to enter info and create a user.
