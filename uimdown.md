@@ -21,16 +21,16 @@ User creation: A sheet where admins can create new users.
 UI Behavior
 
 1.User list:
--At first, the table is blank.
--Users are added to this blank table.
--When selecting specific users, the detailed info of the users should be shown in the sheet.
+- At first, the table is blank.
+- Users are added to this blank table.
+- When selecting specific users, the detailed info of the users should be shown in the sheet.
 
 2.User details: 
--Only active when a specific user is selected. Upon selecting, the sheet shows the detailed info of the user.
+- Only active when a specific user is selected. Upon selecting, the sheet shows the detailed info of the user.
 
 3.User Creation: 
--At first, the form is blank. Admins can provide the essential information and create a user.
--After filling and confirming the form, the new user is shown in the user list.
+- At first, the form is blank. Admins can provide the essential information and create a user.
+- After filling and confirming the form, the new user is shown in the user list.
 
 
 
